@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 blaaa bla abalba
 
 balahahaha 
 
 hudoooodddleeeedooooo
+=======
+It was the best of times.
+>>>>>>> 6fc5af91a79ca03db8226ef09641385bb3adbcdb
 =======
 It was the best of times.
 >>>>>>> 6fc5af91a79ca03db8226ef09641385bb3adbcdb
