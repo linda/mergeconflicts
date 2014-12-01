@@ -1,11 +1,17 @@
 She had bright green eyes that glowed a little even
- in darkness, and Alex did not know
  whether it was because of image persistence on her LCD
  screens, or if perhaps that viscous green mass they
  suspected inhabited her skull might be shining through.
 
+<<<<<<< HEAD
  Or sparks flying because aliens conducted experiments with
  things in the quiet chambers of her brain. The
  organisation's relatons with extraterrestials was not
  Alex's department.
+=======
+ Or possibly small gnomes conducting experiments with
+ magic in the quiet chambers of her brain. The
+ organisation largely financed itself with these
+ sorts of rental arrangements.
+>>>>>>> 889d6791ee6ff6319fd1d7814e155e016b1e567f
  
